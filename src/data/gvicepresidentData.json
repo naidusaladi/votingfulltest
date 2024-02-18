@@ -1,0 +1,24 @@
+{
+    "gvicepresident":[
+        {
+            "name":"John",
+            "year":"4th",
+            "imgurl":"url"
+        },
+        {
+            "name":"bob",
+            "year":"3th",
+            "imgurl":"url"
+        },
+        {
+            "name":"alice",
+            "year":"4th",
+            "imgurl":"url"
+        },
+        {
+            "name":"Rio",
+            "year":"3th",
+            "imgurl":"url"
+        }
+    ]
+}

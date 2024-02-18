@@ -1,0 +1,59 @@
+.cardContainer{
+    width: 280px;
+    height: 400px;
+    border: 2px solid black;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.5);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cardImg{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: none;
+
+}
+.img{
+    border-radius: 100%;
+    height: 190px;
+    width: 190px;
+}
+.cardData{
+    text-align: center;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    font-weight: 1000;
+    border-radius: 20px;
+    background-color: aqua;
+    cursor: pointer;
+    border: none;
+}
+.btn:hover{
+    background-color: rgb(25, 240, 64);
+    color: white;
+    
+}
+
+.name{
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.year{
+    color: rgba(126, 120, 120,0.4);
+    text-shadow:0px 0px 0px rgba(109, 106, 106, 0.5);
+    font-family:Arial, Helvetica, sans-serif;
+
+}

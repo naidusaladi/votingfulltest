@@ -1,0 +1,37 @@
+.thankyouContainer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.tick{
+    height: 120px;
+    width: 120px;
+    color:green;
+}
+.completVoting{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.completVoting button{
+    background-color:transparent;
+    width: 220px;
+    height: 80px;
+    border-radius: 20px;
+    font-weight: 1000;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+.completVoting button:hover{
+    background-color: greenyellow;
+    color:white;
+    border:none;
+    text-shadow: 0px 0px 0px rgba(0,0,0,0.5);
+
+}

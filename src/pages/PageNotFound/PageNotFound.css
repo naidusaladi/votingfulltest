@@ -1,0 +1,11 @@
+.pagenotfound{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
